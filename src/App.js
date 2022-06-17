@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       
       <div className='button-container'>
-      <Button text='7' isButtonClick={true} />
+        <Button text='7' isButtonClick={true} />
       </div>
     </div>
   );
